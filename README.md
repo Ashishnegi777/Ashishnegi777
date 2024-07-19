@@ -3,13 +3,3 @@
 ###
 
 <p align="left">Ashish.</p>
-
-###
-
-###
-
-<p align="left">~ CS student<br>~Your past is influenced by the future<br></p>
-
-###
-
-###
