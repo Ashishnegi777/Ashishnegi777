@@ -30,21 +30,19 @@
 
 
 
-
-
 ## My Projects
 
 <table>
   <tr>
     <td align="center">
       <a href="https://ashishnegi777.github.io/Managerial/">
-        <img src="img/mangerial.jpg" target="_blank" width="300px" /><br />
+        <img src="img/mangerial.jpg" target="_blank" width="300px" />
       </a>
     </td>
 
   <td align="center">
       <a href="https://ashishnegi777.github.io/crypter/">
-        <img src="img/mangerial.jpg" width="300px" /><br />
+        <img src="img/mangerial.jpg" width="300px" />
       </a>
     </td>
     
