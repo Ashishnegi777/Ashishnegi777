@@ -45,6 +45,12 @@
         <img src="img/crypter.png" width="300px" />
       </a>
     </td>
+
+  <td align="center">
+      <a href="https://ashishnegi777.github.io/Weather-forecast/">
+        <img src="img/weather.png" width="300px" />
+      </a>
+    </td>
     
   </tr>
 </table>
