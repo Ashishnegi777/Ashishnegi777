@@ -43,6 +43,13 @@
       </a>
     </td>
 
+  <td align="center">
+      <a href="https://ashishnegi777.github.io/crypter/">
+        <img src="img/mangerial.jpg" width="150px" /><br />
+        <strong>Project 2</strong>
+      </a>
+      <p>A brief description.</p>
+    </td>
     
   </tr>
 </table>
