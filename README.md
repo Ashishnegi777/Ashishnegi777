@@ -36,7 +36,7 @@
   <tr>
     <td align="center">
       <a href="https://ashishnegi777.github.io/Managerial/">
-        <img src="img/mangerial.jpg" target="_blank" width="40rem" /><br />
+        <img src="img/mangerial.jpg" target="_blank" width="400px" /><br />
         <strong>Mangerial</strong>
       </a>
     </td>
