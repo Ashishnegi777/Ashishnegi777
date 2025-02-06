@@ -42,7 +42,7 @@
 
   <td align="center">
       <a href="https://ashishnegi777.github.io/crypter/">
-        <img src="img/mangerial.jpg" width="300px" />
+        <img src="img/crypter.png" width="300px" />
       </a>
     </td>
     
