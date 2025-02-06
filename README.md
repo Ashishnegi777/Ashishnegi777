@@ -46,7 +46,7 @@
   <td align="center">
       <a href="https://ashishnegi777.github.io/crypter/">
         <img src="img/mangerial.jpg" width="300px" /><br />
-        <strong>Project 2</strong>
+        <strong>Cryper</strong>
       </a>
     </td>
     
