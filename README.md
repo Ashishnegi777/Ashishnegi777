@@ -30,7 +30,9 @@
 
 
 
-## 🚀 My Projects
+
+
+## My Projects
 
 <table>
   <tr>
@@ -42,7 +44,6 @@
     </td>
   </tr>
 </table>
-
 
 ###
 
