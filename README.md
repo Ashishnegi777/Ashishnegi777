@@ -28,6 +28,23 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
+
+
+## 🚀 My Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://ashishnegi777.github.io/Managerial/">
+        <img src="https://i.postimg.cc/HsbkpRs3/mangerial.jpg" width="150px" /><br />
+        <strong>Project 1</strong>
+      </a>
+      <p>A brief description.</p>
+    </td>
+  </tr>
+</table>
+
+
 ###
 
 <div align="center">
