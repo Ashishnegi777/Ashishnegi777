@@ -43,12 +43,7 @@
       </a>
     </td>
 
-    <td align="center">
-      <a href="https://ashishnegi777.github.io/Managerial/">
-        <img src="img/mangerial.jpg" target="_blank" width="550px" /><br />
-        <strong>Mangerial</strong>
-      </a>
-    </td>
+    
   </tr>
 </table>
 
