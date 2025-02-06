@@ -48,7 +48,6 @@
         <img src="img/mangerial.jpg" width="300px" /><br />
         <strong>Project 2</strong>
       </a>
-      <p>A brief description.</p>
     </td>
     
   </tr>
