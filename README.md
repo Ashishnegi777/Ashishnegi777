@@ -36,8 +36,8 @@
   <tr>
     <td align="center">
       <a href="https://ashishnegi777.github.io/Managerial/">
-        <img src="img/mangerial.jpg" target="_blank" width="5rem" /><br />
-        <strong>Project 1</strong>
+        <img src="img/mangerial.jpg" target="_blank" width="40rem" /><br />
+        <strong>Mangerial</strong>
       </a>
     </td>
   </tr>
