@@ -36,7 +36,7 @@
   <tr>
     <td align="center">
       <a href="https://ashishnegi777.github.io/Managerial/">
-        <a href="https://ibb.co/QjcWhRcx"><img src="https://i.ibb.co/QjcWhRcx/mangerial.jpg" alt="mangerial" border="0"></a><br />
+        <img src="img/mangerial.jpg" width="150px" /><br />
         <strong>Project 1</strong>
       </a>
       <p>A brief description.</p>
