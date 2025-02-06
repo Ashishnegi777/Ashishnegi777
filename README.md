@@ -38,14 +38,14 @@
   <tr>
     <td align="center">
       <a href="https://ashishnegi777.github.io/Managerial/">
-        <img src="img/mangerial.jpg" target="_blank" width="550px" /><br />
+        <img src="img/mangerial.jpg" target="_blank" width="300px" /><br />
         <strong>Mangerial</strong>
       </a>
     </td>
 
   <td align="center">
       <a href="https://ashishnegi777.github.io/crypter/">
-        <img src="img/mangerial.jpg" width="150px" /><br />
+        <img src="img/mangerial.jpg" width="300px" /><br />
         <strong>Project 2</strong>
       </a>
       <p>A brief description.</p>
