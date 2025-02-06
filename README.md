@@ -30,15 +30,15 @@
 
 ###
 
-<div align="left">
+<div align="center">
+<img src="https://raw.githubusercontent.com/ashishnegi777/ashishnegi777/output/snake.svg" alt="Snake animation" />
 </div>
 
+![snake gif](https://github.com/ashishnegi777/ashishnegi777/blob/output/github-snake-dark.svg)
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ashishnegi777/ashishnegi777/output/snake.svg" alt="Snake animation" />
-![snake gif](https://github.com/ashishnegi777/ashishnegi777/blob/output/github-snake-dark.svg)
 
 ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishnegi777&bg_color=000000&color=d5c8d4&line=ffffff&point=e15151&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
