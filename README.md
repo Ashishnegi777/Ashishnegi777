@@ -55,7 +55,7 @@
       </a>
     </td>
 
-  <td align="center" width="33%">
+  <!-- <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/crypter/" target="_blank" rel="noopener noreferrer">
         <img src="img/crypter.png" width="200px" />
          <strong>Crypter</strong>
@@ -74,7 +74,7 @@
         <img src="img/Porshe.png" width="200px" />
          <strong>Porshe</strong>
       </a>
-    </td>
+    </td> -->
 
     
   </tr>
