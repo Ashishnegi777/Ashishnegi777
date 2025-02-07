@@ -32,7 +32,7 @@
 
 ## Projects
 
-<table height="80%">
+<table height="100%">
   <tr>
    <td align="center"  width="33%">
       <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
@@ -43,35 +43,35 @@
 
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Weather-forecast/" target="_blank" rel="noopener noreferrer">
-        <img src="img/weather.png" width="300px" />
+        <img src="img/weather.png" width="200px" />
          <strong>Weather</strong>
       </a>
     </td>
   
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Managerial/" target="_blank" rel="noopener noreferrer">
-        <img src="img/mangerial.jpg" width="300px" />
+        <img src="img/mangerial.jpg" width="200px" />
          <strong>Managerial</strong>
       </a>
     </td>
 
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/crypter/" target="_blank" rel="noopener noreferrer">
-        <img src="img/crypter.png" width="300px" />
+        <img src="img/crypter.png" width="200px" />
          <strong>Crypter</strong>
       </a>
     </td>
 
    <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Sniuous/" target="_blank" rel="noopener noreferrer">
-        <img src="img/senious.png" width="300px" />
+        <img src="img/senious.png" width="200px" />
          <strong>Senious</strong>
       </a>
     </td>
 
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Porsche.Parallax./" target="_blank" rel="noopener noreferrer">
-        <img src="img/Porshe.png" width="300px" />
+        <img src="img/Porshe.png" width="200px" />
          <strong>Porshe</strong>
       </a>
     </td>
