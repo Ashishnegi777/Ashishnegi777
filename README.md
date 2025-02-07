@@ -41,7 +41,14 @@
     </td>
 
   <tr>
-    <td align="center">
+  <td align="center">
+      <a href="https://ashishnegi777.github.io/Weather-forecast/" target="_blank" rel="noopener noreferrer">
+        <img src="img/weather.png" width="300px" />
+         <strong>Weather</strong>
+      </a>
+    </td>
+  
+  <td align="center">
       <a href="https://ashishnegi777.github.io/Managerial/" target="_blank" rel="noopener noreferrer">
         <img src="img/mangerial.jpg" width="300px" />
          <strong>Managerial</strong>
@@ -55,12 +62,20 @@
       </a>
     </td>
 
-  <td align="center">
-      <a href="https://ashishnegi777.github.io/Weather-forecast/" target="_blank" rel="noopener noreferrer">
-        <img src="img/weather.png" width="300px" />
-         <strong>Weather</strong>
+   <td align="center">
+      <a href="https://ashishnegi777.github.io/Sniuous/" target="_blank" rel="noopener noreferrer">
+        <img src="img/senious.png" width="300px" />
+         <strong>Senious</strong>
       </a>
     </td>
+
+  <td align="center">
+      <a href="https://ashishnegi777.github.io/Porsche.Parallax./" target="_blank" rel="noopener noreferrer">
+        <img src="img/Porshe.png" width="300px" />
+         <strong>Porshe</strong>
+      </a>
+    </td>
+
     
   </tr>
 </table>
