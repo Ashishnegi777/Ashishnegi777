@@ -33,6 +33,7 @@
 ## My Projects
 
 <table>
+  <tr>
    <td align="center">
       <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
         <img src="img/quotesGenCy.png" width="300px" />
@@ -40,7 +41,6 @@
       </a>
     </td>
 
-  <tr>
   <td align="center">
       <a href="https://ashishnegi777.github.io/Weather-forecast/" target="_blank" rel="noopener noreferrer">
         <img src="img/weather.png" width="300px" />
