@@ -32,7 +32,7 @@
 
 ## Projects
 
-<table>
+<table height="80%">
   <tr>
    <td align="center"  width="33%">
       <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
