@@ -33,6 +33,13 @@
 ## My Projects
 
 <table>
+   <td align="center">
+      <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
+        <img src="img/quotesGenCy.png" width="300px" />
+         <strong>Quote</strong>
+      </a>
+    </td>
+
   <tr>
     <td align="center">
       <a href="https://ashishnegi777.github.io/Managerial/" target="_blank" rel="noopener noreferrer">
