@@ -35,21 +35,21 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://ashishnegi777.github.io/Managerial/">
-        <img src="img/mangerial.jpg" target="_blank" width="300px" />
+      <a href="https://ashishnegi777.github.io/Managerial/" target="_blank">
+        <img src="img/mangerial.jpg" width="300px" />
          <strong>Managerial</strong>
       </a>
     </td>
 
   <td align="center">
-      <a href="https://ashishnegi777.github.io/crypter/">
+      <a href="https://ashishnegi777.github.io/crypter/" target="_blank">
         <img src="img/crypter.png" width="300px" />
          <strong>Crypter</strong>
       </a>
     </td>
 
   <td align="center">
-      <a href="https://ashishnegi777.github.io/Weather-forecast/">
+      <a href="https://ashishnegi777.github.io/Weather-forecast/" target="_blank">
         <img src="img/weather.png" width="300px" />
          <strong>Weather</strong>
       </a>
