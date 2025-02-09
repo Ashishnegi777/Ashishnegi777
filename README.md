@@ -77,7 +77,7 @@
 
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Porsche.Parallax./" target="_blank" rel="noopener noreferrer">
-        <img src="img/Porshe.png" width="200px" />
+        <img src="img/Porshe.png" width="250px" />
          <strong>Porshe</strong>
       </a>
     </td> 
