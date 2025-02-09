@@ -1,4 +1,4 @@
-<h2 align="left" style="font-family: "DM Serif Display", serif;">This is Enliven</h2>
+<h2 align="left" style="font-family: "DM Serif Display", serif;">Enliven</h2>
 
 ###
 
