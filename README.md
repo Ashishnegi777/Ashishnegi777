@@ -63,21 +63,21 @@
 <table height="100%">
    <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/crypter/" target="_blank" rel="noopener noreferrer">
-        <img src="img/crypter.jpg" width="200px" />
+        <img src="img/crypter.jpg" width="100%" />
          <strong>Crypter</strong>
       </a>
     </td>
 
    <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Sniuous/" target="_blank" rel="noopener noreferrer">
-        <img src="img/ecosense.jpg" width="200px" />
+        <img src="img/ecosense.jpg" width="100%" />
          <strong>Senious</strong>
       </a>
     </td>
 
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Porsche.Parallax./" target="_blank" rel="noopener noreferrer">
-        <img src="img/Porshe.png" width="250px" />
+        <img src="img/Porshe.png" width="100%" />
          <strong>Porshe</strong>
       </a>
     </td> 
