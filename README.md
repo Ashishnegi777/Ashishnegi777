@@ -36,7 +36,7 @@
   <tr>
    <td align="center"  width="33%">
       <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
-        <img src="img/quotesGenCy.png" width="300px" />
+        <img src="img/mockupQuote.jpg" width="300px" />
          <strong>Quote</strong>
       </a>
     </td>
