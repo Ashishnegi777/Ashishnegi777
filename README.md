@@ -50,8 +50,8 @@
 <table height="100%">
   <tr>
    <td align="center"  width="33%">
-      <a href="https://ashishnegi777.github.io/view.png/" target="_blank" rel="noopener noreferrer">
-        <img src="img/mockupQuote.jpg" width="300px" />
+      <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
+        <img src="img/view.png" width="300px" />
          <strong>Quote</strong>
       </a>
     </td>
