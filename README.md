@@ -51,21 +51,21 @@
   <tr>
    <td align="center"  width="33%">
       <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
-        <img src="img/view.png" width="300px" />
+        <img src="img/view.png" width="100%" />
          <strong>Quote</strong>
       </a>
     </td>
 
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Weather-forecast/" target="_blank" rel="noopener noreferrer">
-        <img src="img/wearther01.jpg" width="200px" />
+        <img src="img/wearther01.jpg" width="100%" />
          <strong>Weather</strong>
       </a>
     </td>
   
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Managerial/" target="_blank" rel="noopener noreferrer">
-        <img src="img/manage@.jpg" width="200px" />
+        <img src="img/manage@.jpg" width="100%" />
          <strong>Managerial</strong>
       </a>
     </td>
