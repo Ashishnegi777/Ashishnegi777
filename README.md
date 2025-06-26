@@ -51,7 +51,7 @@
   <tr>
    <td align="center"  width="33%">
       <a href="https://ashishnegi777.github.io/Quote-Generator/" target="_blank" rel="noopener noreferrer">
-        <img src="img/view.png" width="150px" />
+        <img src="img/view.png" width="200px" />
          <strong>Quote</strong>
       </a>
     </td>
