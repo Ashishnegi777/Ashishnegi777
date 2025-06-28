@@ -58,14 +58,14 @@
 
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Weather-forecast/" target="_blank" rel="noopener noreferrer">
-        <img src="img/wearther01.jpg" width="100%" />
+        <img src="img/wearther01.jpg" width="width: 200px; object-fit: cover;" />
          <strong>Weather</strong>
       </a>
     </td>
   
   <td align="center" width="33%">
       <a href="https://ashishnegi777.github.io/Managerial/" target="_blank" rel="noopener noreferrer">
-        <img src="img/manage@.jpg" width="100%" />
+        <img src="img/manage@.jpg" width="width: 200px; object-fit: cover;" />
          <strong>Managerial</strong>
       </a>
     </td>
